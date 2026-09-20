@@ -1,7 +1,7 @@
 ### Hi there, I'm Dr. Pedro Medrado! 👋
-#### *Medical Doctor (M.D.) | HealthTech Founder | Python Developer*
+#### *Medical Doctor (M.D.) | LLM Research | Python Developer*
 
-I am a licensed Physician bridging the gap between **Clinical Medicine** and **Software Engineering**. I build tools to automate healthcare workflows and audit AI for patient safety.
+I'm a licensed Physician bridging the gap between **Clinical Medicine** and **Software Engineering**. I build tools to automate healthcare workflows and audit AI for patient safety.
 
 🔍 **Current Focus:**
 * **AI Safety & RLHF:** Auditing Clinical LLMs for reasoning errors and hallucinations.
